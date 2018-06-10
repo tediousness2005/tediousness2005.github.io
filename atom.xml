@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>That’s life.</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-06-10T13:52:47.613Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>にゃんこ(nyanko)</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HEXO</title>
+    <link href="http://yoursite.com/2018/06/10/HEXO/"/>
+    <id>http://yoursite.com/2018/06/10/HEXO/</id>
+    <published>2018-06-10T13:48:31.000Z</published>
+    <updated>2018-06-10T13:52:47.613Z</updated>
+    
+    <content type="html"><![CDATA[<p><hr color="blue"></p><h1>静的サイトジェネレータHEXO(ヘクソ)</h1><p><img src="/2018/06/03/HEXO/HEXO.png" width="720px"></p><p>このブログはHEXO(ヘクソ)という静的サイトジェネレータを使用しています。</p><p>２０１８年６月現在ですと静的サイトジェネレータはHugoの方が人気かなとは思います。</p><p><hr color="blue"></p><h5>静的サイトジェネレーターHugoとは</h5><p><img src="/2018/06/03/HEXO/HUGO.png" width="720px"></p><p><a href="https://gohugo.io&quot;HUGO&quot;" target="_blank" rel="noopener">HUGOの公式サイト</a></p><p>Go言語で書かれたシンプルかつ非常に高速な静的サイトジェネレーターです。<br>テンプレートはまだ少ないですが、静的サイトジェネレータでは年々注目度上がってきているので今後増えてくると思います(現時点で静的サイトジェネレータに興味がある方は、エンジニアの方かもしくは趣味でプログラムなどやる方々の方が断然多いと思われますのでテーマを自作してしまうのもありですね)。<br>その影響かHugoの関連ブログなども充実しており<br>これから静的サイトジェネレータでブログを始める方にはお薦めだと思います。</p><p><hr color="blue"></p><h3>なぜこのブログはHEXO(ヘクソ)なのか</h3><p>私にゃんこが天の邪鬼で通振りたいからです(笑)</p><p>というのは半分冗談で<br>いくつかの静的サイトジェネレータを使用したブログを見た中で私的には一番デザイン的に気に入ったからです。<br>現状その様なデザインがあるということはプラグインの充実やノウハウが書かれたブログに出会える可能性が高いと思ったからです。<br>このブログで表現したいことなどが出てきた時に<br>その解決に向けて発信されている内容が探しやすい方が、<br>今後使い勝手が良いかなと思い私はHEXO(ヘクソ)を選びました。</p><p><hr width="600" color="blue"></p><h2>HEXO(ヘクソ)とは</h2><p><img src="/2018/06/03/HEXO/HEXO.png" width="720px"></p><p><a href="https://hexo.io/&quot;HEXO&quot;" target="_blank" rel="noopener">HEXOの公式サイト</a></p><p>ちなみに静的サイトジェネレータ、HEXO(ヘクソ)とは<br>Node.js製のMarkdown形式での静的サイトジェネレーターです。</p><p>いくつかある静的サイトジェネレータの中でもブログ向きで記事の更新などが比較的に簡単になっています。</p><p>テーマも割と多い方であると思います。</p><p>ただアジア圏での人気が高いためか無料で配布してくださっているテーマも中国語多い印象はあります。</p><p>さまざまな機能を追加できるプラグインもあり、 RSSフィードを自動的に作成したり サイトマップを作成したりしてくれるなどの特徴からも静的サイトジェネレータをブログでの活用目的の方にはHEXO(ヘクソ)はお薦めです。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;hr color=&quot;blue&quot;&gt;&lt;/p&gt;
+&lt;h1&gt;静的サイトジェネレータHEXO(ヘクソ)&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/2018/06/03/HEXO/HEXO.png&quot; width=&quot;720px&quot;&gt;&lt;/p&gt;
+&lt;p&gt;このブログはHEXO(ヘクソ)という静的サイ
+      
+    
+    </summary>
+    
+      <category term="その他" scheme="http://yoursite.com/categories/%E3%81%9D%E3%81%AE%E4%BB%96/"/>
+    
+    
+      <category term="静的サイトジェネレータHEXO" scheme="http://yoursite.com/tags/%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BFHEXO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>このブログについて</title>
+    <link href="http://yoursite.com/2018/06/03/%E3%81%93%E3%81%AE%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/"/>
+    <id>http://yoursite.com/2018/06/03/このブログについて/</id>
+    <published>2018-06-02T20:37:11.000Z</published>
+    <updated>2018-06-10T13:25:05.655Z</updated>
+    
+    <content type="html"><![CDATA[<p>このブログは現在多くの方々や企業が利用していると思われる<br>Wordpress（ワードプレス）やブログサービスで有名な、<br>はてなブログやアメーバブログでは無く、<br>静的サイトジェネレータを使用しています。</p><p>静的サイトジェネレータとは<br>Wordpress（ワードプレス）の様な比較的自由度の高い使用と<br>サーバーやドメインを個人で取得しなくても利用できるという利点があります。</p><p>ここだけを聞くと大変素晴らしいものに聞こえますが、<br>動的ページがほとんど使えない<br>（外部サービスやエンジニアとして最低限の技術があれば少しは可能らしいですが・・・）<br>またエンジニアでない方には<br>（例えばプログラムを今までやった事のない方には敷居が高い）<br>少し扱いづらいという一面を持っていると思います。</p><p>ですが私もまだエンジニアの職について日が浅く比較的一般の方に近い<br>プログラム知識だと思いますので<br>このブログを見た方が静的サイトジェネレータでブログを初めてみようと<br>思えるきっかけを作れたら嬉しいです。</p><p>そのため私のブログ自体も休日などを利用して様々な挑戦をして、<br>その事をブログにもできる限り書いていこうと思います。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;このブログは現在多くの方々や企業が利用していると思われる&lt;br&gt;Wordpress（ワードプレス）やブログサービスで有名な、&lt;br&gt;はてなブログやアメーバブログでは無く、&lt;br&gt;静的サイトジェネレータを使用しています。&lt;/p&gt;
+&lt;p&gt;静的サイトジェネレータとは&lt;br&gt;Wor
+      
+    
+    </summary>
+    
+      <category term="その他" scheme="http://yoursite.com/categories/%E3%81%9D%E3%81%AE%E4%BB%96/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>初めまして</title>
+    <link href="http://yoursite.com/2018/06/03/%E5%88%9D%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6/"/>
+    <id>http://yoursite.com/2018/06/03/初めまして/</id>
+    <published>2018-06-02T20:27:51.000Z</published>
+    <updated>2018-06-10T14:21:01.412Z</updated>
+    
+    <content type="html"><![CDATA[<p>私は今年からWebのサーバーサイドエンジニアとして勤務し始めた<br>エンジニアのひよこです。</p><p>このブログでは日々の仕事の中で書き留めたい事や、<br>広く浅くの自身の趣味の事などを書いていこうと思っています。</p><p>どうぞ宜しくお願いします。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;私は今年からWebのサーバーサイドエンジニアとして勤務し始めた&lt;br&gt;エンジニアのひよこです。&lt;/p&gt;
+&lt;p&gt;このブログでは日々の仕事の中で書き留めたい事や、&lt;br&gt;広く浅くの自身の趣味の事などを書いていこうと思っています。&lt;/p&gt;
+&lt;p&gt;どうぞ宜しくお願いします。&lt;/p&gt;
+      
+    
+    </summary>
+    
+      <category term="その他" scheme="http://yoursite.com/categories/%E3%81%9D%E3%81%AE%E4%BB%96/"/>
+    
+    
+  </entry>
+  
+</feed>
